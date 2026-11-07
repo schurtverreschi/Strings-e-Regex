@@ -10,3 +10,4 @@ Revisar e reforçar os conhecimentos aprendidos de strings e regex
 - filtro_numero: Utiliza de regex para identificar e coletar dígitos dentro do texto e devolver somente a numeração;
 - troca_palavra: Utiliza função replace para alterar palavras especificas dentro do texto e retornar o texto corrigido;
 - validador_nome: Realiza conferencia do nome inserido utilizando função full match do regex para verificar se o nome atende as especificações (primeira letra maiúscula e somente letras);
+- validador_cpf: Confere se o formato inserido confere com o formato padrão de CPF através de regex
