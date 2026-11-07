@@ -8,3 +8,4 @@ Revisar e reforçar os conhecimentos aprendidos de strings e regex
 - gerador_dicas: Utiliza fatiamento para cortar trechos específicos da palavra fornecida e devolver formatado para o usuário;
 - verificador_link: Utiliza métodos starts with e ends with para verificar se o começo e o final da string são compatíveis com o formato de url aceito;
 - filtro_numero: Utiliza de regex para identificar e coletar dígitos dentro do texto e devolver somente a numeração;
+- troca_palavra: Utiliza função replace para alterar palavras especificas dentro do texto e retornar o texto corrigido;
